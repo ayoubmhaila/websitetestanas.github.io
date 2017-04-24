@@ -1,0 +1,21 @@
+.container-fluid {
+	background: black;
+	
+}
+.container{
+	background: red;
+	height: 1200px;
+	padding: 0px;
+}
+.slider{
+	background: blue;
+ 	height: 390px;
+
+}
+#lktba{
+	background:rgba(0,0,0,0.3);
+}
+#lktba h2{
+
+		color: white;
+}
